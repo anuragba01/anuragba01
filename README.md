@@ -21,8 +21,7 @@ Here, you'll find a collection of my work neatly organized into distinct folders
 ### [📁 Data Science and Data Analytics](https://github.com/anuragkumar?tab=repositories&q=&type=&language=&sort=&topic=data-science)  
 This folder contains projects related to:  
 - Data Analysis and Visualization  
-- Statistical Modeling  
-- Business Intelligence tools like Power BI and Tableau  
+- Statistical Modeling    
 
 ### [📁 AI/ML](https://github.com/anuragkumar?tab=repositories&q=&type=&language=&sort=&topic=ai-ml)  
 This folder includes repositories focused on:  
