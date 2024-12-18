@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Kumar  
 
-Welcome to my GitHub profile! I'm passionate about **Data Science and Data Analytics**, **Machine Learning**, and **Programming**.  
+Welcome to my GitHub profile!  
 Here, you'll find a collection of my work neatly organized into distinct folders for better navigation. 🚀  
 
 ---
