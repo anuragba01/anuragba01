@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bbe98c05-0092-4abd-bd3b-a9748db59e8a)# 👋 Hi, I'm Anurag Kumar  
+# 👋 Hi, I'm Anurag Kumar  
 
 Welcome to my GitHub profile! I'm passionate about **Data Science and Data Analytics**, **Machine Learning**, and **Programming**.  
 Here, you'll find a collection of my work neatly organized into distinct folders for better navigation. 🚀  
