@@ -1,42 +1,28 @@
-# Hi there! 👋 I'm Anurag Kumar  
+# 👋 Hi, I'm Anurag Kumar  
 
-### 🌟 Welcome to My GitHub Profile!  
-I am passionate about **Data Science**, **Machine Learning**, and **Programming**.  
-I strive to solve complex problems and create impactful solutions through analytics and code. 🚀  
-
----
-
-## 🛠️ Skills  
-Here are some of the tools and technologies I work with:  
-
-### **Data Science & Analytics**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-1F4A93?logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)  
-
-### **Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
-
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white)  
+Welcome to my GitHub profile! I'm passionate about **Data Science**, **Machine Learning**, and **Programming**.  
+Here, you'll find a collection of my work neatly organized into distinct folders for better navigation. 🚀  
 
 ---
 
 ## 📂 Repository Structure  
-### **1. Data Science & Data Analytics**  
-Projects related to **data analysis**, **visualization**, and **statistical modeling**.  
 
-### **2. AI/ML**  
-Repositories focusing on **machine learning models**, **deep learning experiments**, and **AI algorithms**.  
+### [📁 Data Science and Data Analytics](https://github.com/anuragkumar?tab=repositories&q=&type=&language=&sort=&topic=data-science)  
+This folder contains projects related to:  
+- Data Analysis and Visualization  
+- Statistical Modeling  
+- Business Intelligence tools like Power BI and Tableau  
 
-### **3. General Programming**  
-Miscellaneous programming projects, problem-solving scripts, and utilities.  
+### [📁 AI/ML](https://github.com/anuragkumar?tab=repositories&q=&type=&language=&sort=&topic=ai-ml)  
+This folder includes repositories focused on:  
+- Machine Learning Algorithms  
+- Artificial Intelligence Projects  
+
+### [📁 General Programming](https://github.com/anuragkumar?tab=repositories&q=&type=&language=&sort=&topic=programming)  
+Here you'll find:  
+- Programming Challenges and Utilities  
+- Scripting Solutions  
+- Miscellaneous Projects  
 
 ---
 
@@ -46,10 +32,8 @@ Miscellaneous programming projects, problem-solving scripts, and utilities.
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Machine Learning Algorithms  
-- C++ Programming  
-- Divisors and Mathematical Foundations  
+## 🌱 Currently Learning     
+- Data Structures and Algorithams  
 
 ---
 
