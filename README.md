@@ -5,7 +5,7 @@ Here, you'll find a collection of my work neatly organized into distinct folders
 
 ---
 
-## Tools and Skill I Know 
+## Tools and Skills I Know 
 ![DSA](https://img.shields.io/badge/-DSA-009688?logo=data-structures&logoColor=white&style=flat&logoWidth=20)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat&logoWidth=20)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat&logoWidth=20)  
